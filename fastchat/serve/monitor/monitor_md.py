@@ -52,6 +52,9 @@ deprecated_model_name = [
     "early-grok-3",
     "chatgpt-4o-latest-20250129",
     "llama-4-maverick-03-26-experimental",
+    "gemini-2.0-pro-exp-02-05",
+    "gemini-2.0-flash-thinking-exp-01-21",
+    "gemini-2.5-pro-exp-03-25",
 ]
 
 key_to_category_name = {
